@@ -1,5 +1,5 @@
 # rr-search-tries
-Trie-based search classes for JavaScript
+Trie-based search methods for JavaScript.
 
 ## Sample Code
 
